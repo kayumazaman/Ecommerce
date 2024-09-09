@@ -26,7 +26,7 @@
         <ul class="list-unstyled">
           <li> <a href="#"> <i class="icon-settings"></i>Demo </a></li>
           <li> <a href="#"> <i class="icon-writing-whiteboard"></i>Demo 1</a></li>
-          <li> <a href="#"> <i class="icon-chart"></i>Demo 2 </a></li>
+          <li> <a href="#"> <i class="icon-chart"></i>Demo </a></li>
         </ul>
       </nav>
       <!-- Sidebar Navigation end-->
